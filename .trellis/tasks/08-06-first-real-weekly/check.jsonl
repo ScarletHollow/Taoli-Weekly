@@ -1,0 +1,4 @@
+{"file": ".trellis/tasks/08-06-first-real-weekly/prd.md", "reason": "AC1-AC5 验收标准,检查验证周报产物"}
+{"file": ".trellis/tasks/08-06-first-real-weekly/design.md", "reason": "执行路径与验证口径,检查产物是否符合设计"}
+{"file": "weekly-report/drafts/2026-W31/draft.md", "reason": "验证周报产物验收:符合 C 模板(期要点/分层正文/桃李建议)"}
+{"file": "weekly-report/signals/signals-2026-W31.jsonl", "reason": "信号库验收:真实信号、来源完整、评分字段完整"}

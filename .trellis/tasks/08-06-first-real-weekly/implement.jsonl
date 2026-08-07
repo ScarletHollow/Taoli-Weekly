@@ -1,0 +1,4 @@
+{"file": ".trellis/tasks/08-06-first-real-weekly/prd.md", "reason": "需求与验收:一期真实周报、AC1-AC5"}
+{"file": ".trellis/tasks/08-06-first-real-weekly/design.md", "reason": "数据源时间窗 2026-W31、执行路径、风险降级"}
+{"file": ".trellis/tasks/08-06-first-real-weekly/implement.md", "reason": "实施清单:阶段0-5、产物校验、交叉验收"}
+{"file": ".trellis/tasks/08-06-core-skills-impl/design.md", "reason": "9 核心 Skill 契约,first-real-weekly 调用依据"}

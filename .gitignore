@@ -1,0 +1,27 @@
+# Claude Code 运行时/会话/本地配置(不进仓库)
+.claude/settings.local.json
+.claude/projects/
+.trellis/.runtime/
+.trellis/workspace/
+
+# 周报运行产物(按周,可重新生成;示例文件除外)
+weekly-report/signals/*.jsonl.bak
+weekly-report/signals/*-frozen.json
+weekly-report/drafts/*-check-report.md
+
+# 编辑器/系统
+.DS_Store
+*.swp
+*.log
+
+# 另一个项目的历史任务归档(含服务器 IP,不推公开仓库)
+.trellis/tasks/archive/2026-07/07-28-frontend-docker-deployment/
+.trellis/tasks/archive/2026-07/07-29-classroom-refresh-button/
+.trellis/tasks/archive/2026-08/08-01-phase-test-entry-exam-hide/
+.trellis/tasks/archive/2026-08/08-01-phase-test-recording-matrix/
+.trellis/tasks/archive/2026-08/08-04-phase-test-report-enhance/
+.trellis/tasks/archive/2026-08/08-05-08-05-phase-test-entry-score-matrix/
+.trellis/tasks/archive/2026-07/00-bootstrap-guidelines/
+
+# 另一个项目的前端 spec(含服务器 IP,不推)
+.trellis/spec/

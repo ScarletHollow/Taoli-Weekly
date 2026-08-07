@@ -1,0 +1,5 @@
+{"file": ".trellis/tasks/08-06-methodology-docs-mvp/prd.md", "reason": "需求与验收:MVP 文档范围、AC1-AC5"}
+{"file": ".trellis/tasks/08-06-methodology-docs-mvp/design.md", "reason": "MVP 精简策略、关键契约、版本兼容"}
+{"file": ".trellis/tasks/08-06-methodology-docs-mvp/implement.md", "reason": "实施清单:阶段0-7、校验命令、评审门"}
+{"file": "桃李未来教育 AI 周报.md", "reason": "v0.2 原稿,主文档与分册继承内容来源,归档到 archive/v0.2-原稿.md"}
+{"file": ".trellis/tasks/08-06-weekly-report-methodology-v03/design.md", "reason": "父任务完整设计(19 条决策),docs-mvp 参考其关键契约与边界"}

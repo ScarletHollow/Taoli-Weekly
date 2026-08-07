@@ -1,0 +1,30 @@
+{
+  "id": "weekly-report-methodology-v03",
+  "name": "weekly-report-methodology-v03",
+  "title": "AI周报监测方法论 v0.3 完善",
+  "description": "",
+  "status": "planning",
+  "dev_type": null,
+  "scope": null,
+  "package": null,
+  "priority": "P2",
+  "creator": "Jason8345",
+  "assignee": "Jason8345",
+  "createdAt": "2026-08-06",
+  "completedAt": null,
+  "branch": null,
+  "base_branch": "main",
+  "worktree_path": null,
+  "commit": null,
+  "pr_url": null,
+  "subtasks": [],
+  "children": [
+    "08-06-methodology-docs-mvp",
+    "08-06-core-skills-impl",
+    "08-06-first-real-weekly"
+  ],
+  "parent": null,
+  "relatedFiles": [],
+  "notes": "",
+  "meta": {}
+}

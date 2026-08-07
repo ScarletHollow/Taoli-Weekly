@@ -1,0 +1,4 @@
+{"file": ".trellis/tasks/08-06-core-skills-impl/prd.md", "reason": "需求与验收:9 核心 Skill、AC1-AC6"}
+{"file": ".trellis/tasks/08-06-core-skills-impl/design.md", "reason": "9 Skill 契约表、落地形态(.claude/skills/)、关键决策"}
+{"file": ".trellis/tasks/08-06-core-skills-impl/implement.md", "reason": "实施清单:阶段0-5、冒烟测试、评审门"}
+{"file": ".trellis/tasks/08-06-methodology-docs-mvp/design.md", "reason": "docs-mvp 提供 A 分册信号 JSON schema 与 D 分册流程规范,Skill 契约对齐依据"}

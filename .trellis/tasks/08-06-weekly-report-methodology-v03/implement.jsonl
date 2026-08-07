@@ -1,0 +1,4 @@
+{"file": ".trellis/tasks/08-06-weekly-report-methodology-v03/prd.md", "reason": "需求与验收标准:主文档+5分册、读者画像、目录结构、历史信号库、版本演进、执行模型"}
+{"file": ".trellis/tasks/08-06-weekly-report-methodology-v03/design.md", "reason": "技术设计:边界职责表、数据流、关键契约、19条收敛决策、兼容性与演进"}
+{"file": ".trellis/tasks/08-06-weekly-report-methodology-v03/implement.md", "reason": "实施计划:文件清单、按阶段实施顺序、校验命令、评审门与回退"}
+{"file": "桃李未来教育 AI 周报.md", "reason": "v0.2 原稿,实施时逐节继承与归档到 weekly-report/archive/v0.2-原稿.md"}
